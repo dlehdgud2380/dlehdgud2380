@@ -27,7 +27,8 @@
 
 ## Working
 1. Subculture-Map
-* Backend
-* Frontend 
+* Backend -> https://github.com/dlehdgud2380/subculture-map-backend
+* Frontend -> https://github.com/dlehdgud2380/subculture-map-frontend
 
-## Project Log
+## Portfolio
+https://sc0nep.oopy.io/1d15ab9e-f608-4f85-a8cf-dde226a57050
