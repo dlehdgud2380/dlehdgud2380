@@ -30,5 +30,8 @@
 * Backend -> https://github.com/dlehdgud2380/subculture-map-backend
 * Frontend -> https://github.com/dlehdgud2380/subculture-map-frontend
 
+## Resume
+[https://sc0resume.oopy.io/](https://sc0resume.oopy.io/)
+
 ## Portfolio
-https://sc0nep.oopy.io/1d15ab9e-f608-4f85-a8cf-dde226a57050
+[https://sc0resume.oopy.io/portfolio](https://sc0resume.oopy.io/portfolio)
