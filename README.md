@@ -31,7 +31,7 @@
 * Frontend -> https://github.com/dlehdgud2380/subculture-map-frontend
 
 ## Resume
-[https://hackmd.io/@1E_wCcrqSb-26VT83nS-bA/H1V0VcJ6v](https://hackmd.io/@1E_wCcrqSb-26VT83nS-bA/H1V0VcJ6v)
+[https://gist.github.com/dlehdgud2380/ff5c17a1ac13782a3bb7ce7a3c2c95f4](https://gist.github.com/dlehdgud2380/ff5c17a1ac13782a3bb7ce7a3c2c95f4)
 
 ## Portfolio
 [https://www.notion.so/Portfolio-1d15ab9ef6084f85a8cfdde226a57050](https://www.notion.so/Portfolio-1d15ab9ef6084f85a8cfdde226a57050)
