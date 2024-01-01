@@ -25,7 +25,10 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
 
-## Working
+## Work In Progress
 **1. OTAROAD**
 * Backend -> https://github.com/dlehdgud2380/subculture-map-backend
 * Frontend -> https://github.com/dlehdgud2380/subculture-map-frontend
+
+## Portfolio (Korean)
+https://www.notion.so/Portfolio-1d15ab9ef6084f85a8cfdde226a57050
